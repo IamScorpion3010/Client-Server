@@ -1,0 +1,12 @@
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\bin\Debug\Client.exe.config
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\bin\Debug\Client.exe
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\bin\Debug\Client.pdb
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.frmClient.resources
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.uMessageLine.resources
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.exe
+C:\Users\ThongDNg\Desktop\lap-trinh-mang-main\lap-trinh-mang-main\Lab03.2\Cau2\Client\obj\Debug\Client.pdb

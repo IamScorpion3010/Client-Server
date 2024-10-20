@@ -1,0 +1,30 @@
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\bin\Debug\Server.exe.config
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\bin\Debug\Server.exe
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\bin\Debug\Server.pdb
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\bin\Debug\Client.exe
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\bin\Debug\Client.pdb
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\bin\Debug\Client.exe.config
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.clientForm.resources
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.frmServer.resources
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.exe
+C:\Users\ThongDNg\Desktop\Nhom7_Lab05\Cau2\Server\obj\Debug\Server.pdb
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\bin\Debug\Server.exe.config
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\bin\Debug\Server.exe
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\bin\Debug\Server.pdb
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\bin\Debug\Client.exe
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\bin\Debug\Client.pdb
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\bin\Debug\Client.exe.config
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.clientForm.resources
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.frmServer.resources
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.exe
+C:\Users\bestr\OneDrive\Máy tính\Tomorrow\LapTrinhMang\Lab05\Cau2\Server\obj\Debug\Server.pdb
